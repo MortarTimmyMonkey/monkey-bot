@@ -25,4 +25,4 @@ bot.on('ready',function(){
 bot.on('error', console.error);
  
 
-bot.login('NTMxMzQzMDA1NzUyMjI5ODg4.DxPXBg.Zp840GB8bbPWzEpjTyOpWT0UTP0')
+bot.login(procces.env.TOKEN)
