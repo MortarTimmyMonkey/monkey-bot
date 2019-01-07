@@ -25,4 +25,4 @@ bot.on('ready',function(){
 bot.on('error', console.error);
  
 
-bot.login(procces.env.TOKEN)
+bot.login(process.env.TOKEN)
